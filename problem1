@@ -1,0 +1,25 @@
+# TEST CASES FOR ONEX SHIPPING CALCULATOR
+
+    • click on the calculator application and see if it displays the calculator or not
+    • check if all the buttons in the calculator work properly 
+    • check if the select buttons for particular country works properly
+    • check that only one country can be selected each time 
+    • check if increment and decrement operations for indicating weight/width/height/length works properly 
+    • check if  indicating the weight/height/length/width  number by typing with keyboard works properly for 
+      weight/width/height/length windows
+    • check if the selection of cm/kg  or  drum/pound works properly
+    • as there is no delivery by sea from Russia, China and UK, when selecting those countries, it should not 
+      allow to click on by sea and/or personal burden
+    •  as mentioned delivery price from USA, UK and China does not depend on width/height/length, check that 
+       by selecting countries there is no window for width/height/length
+    • check that the price is calculated properly for each country 
+    • check that the calculator calculates properly for different weights and properties 
+    • check that the price mentioned below changes each time the properties(weight, height/length/width)  change
+    • check for very large numbers 
+    • check if the close button closes the program
+    
+    
+P.S.   I noticed that selecting USA(written new below)  does not allow to select by Sea and personal burden buttons 
+but when I select the first USA (without new written below) and then only select the one written new below , it allows
+to select by Sea and personal burden properties.
+
